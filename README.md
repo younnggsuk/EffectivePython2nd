@@ -12,3 +12,4 @@
 - [Better way 4. C 스타일 형식 문자열을 str.format과 쓰기보다는 f-문자열을 통한 인터폴레이션을 사용하라](./ch1/way_4.md)
 - [Better way 5. 복잡한 식을 쓰는 대신 도우미 함수를 작성하라](./ch1/way_5.md)
 - [Better way 6. 인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](./ch1/way_6.md)
+- [Better way 7. range보다는 enumerate를 사용하라](./ch1/way_7.md)
